@@ -1,0 +1,10 @@
+
+
+
+
+function isPrime(num) {
+    //TODO
+  }
+
+
+
