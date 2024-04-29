@@ -12,7 +12,7 @@ function factorial(n) {
         }
         else { 
             result *= i;
-        }
+        } 
         
     }
     return result;
